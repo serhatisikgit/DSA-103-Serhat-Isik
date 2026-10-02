@@ -1,6 +1,6 @@
 def greetings(name: str) -> str:
     """Greetings by python"""
-    return f"Hello {name}!"
+    return f"Hello there, {name}!"
 
 
 if __name__ == "__main__":
